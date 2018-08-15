@@ -3,6 +3,7 @@ img {
     column-count: 3;
     position: relative;
     margin: 10px 10px 10px 10px;
+    max-width: 400px;
 }
 ul {
     column-count: 3;
