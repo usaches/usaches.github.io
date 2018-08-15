@@ -1,0 +1,9 @@
+img {
+    float: left;
+    column-count: 3;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+}
+ul {
+    column-count: 3;
+}
