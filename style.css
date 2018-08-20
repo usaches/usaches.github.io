@@ -7,10 +7,23 @@ img {
 }
 ul {
     column-count: 3;
+    font-size: 18px;
+
 }
 h1 {
     text-align: center;
     font-size: 45px;
-    color: red;
+    color: gold;
 
+}
+head {
+    background-color: dimgrey;
+}
+body {
+    background-color: dimgrey;
+    color: lightgoldenrodyellow;
+    font-family: "Bookman Old Style", serif;
+}
+strong {
+    color: gold;
 }
